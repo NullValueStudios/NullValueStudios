@@ -1,0 +1,68 @@
+.container {
+    font-family: "Ubuntu", sans-serif;        
+}
+
+.container-company {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #5356FF;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.container-footer {
+    background-color: #5356FF;
+}
+
+.container-resume {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+h4 {
+    font-size: 1.75rem;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;;
+}
+
+.svg-image {
+    height: 2rem;
+    width: 2rem;
+}
+
+.logo {    
+    height: 180px
+}
+
+.text-body-secondary {
+    font-size: 1.25rem;
+}
+
+.selfie {
+    display: flex;
+    justify-content: center;
+}
